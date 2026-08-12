@@ -1,0 +1,15 @@
+<!-- Favicon: the ELEVAR "E" in the brand's display serif on forest.
+     SVG so it stays crisp at every size and needs no rasterising. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="ELEVAR">
+  <rect width="64" height="64" rx="12" fill="#1f3d2b" />
+  <text
+    x="50%"
+    y="50%"
+    dy="0.34em"
+    text-anchor="middle"
+    fill="#f3efe7"
+    font-family="Playfair Display, Georgia, 'Times New Roman', serif"
+    font-size="42"
+    font-weight="600"
+  >E</text>
+</svg>
