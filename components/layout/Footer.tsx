@@ -68,8 +68,7 @@ export function Footer() {
                   {CONTACT_EMAIL}
                 </a>
               </li>
-              {/* PLACEHOLDER — confirm the location line before launch. */}
-              <li>Based in Tulum, MX — working worldwide</li>
+              <li>Based in Miami, FL — working worldwide</li>
             </ul>
           </div>
         </div>
